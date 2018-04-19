@@ -1,0 +1,1 @@
+console.log('Sani gomno sto vika da');
